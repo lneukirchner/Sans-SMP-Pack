@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Version 1 of the Sans SMP resource pack",
+        "name": "§dSans SMP Pack §o[1.0.0]",
+        "uuid": "21e9d77e-0711-4d1b-87ea-fe6c1adbfe30",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Sans SMP resource pack",
+            "type": "resources",
+            "uuid": "7c462cb7-c612-4037-90bc-4c04fefdac90",
+            "version": [1, 0, 0]
+        }
+    ]
+}
